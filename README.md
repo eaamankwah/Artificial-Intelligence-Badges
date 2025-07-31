@@ -11,6 +11,325 @@
 
 </div>
 
+## 🌐 **Multi-Platform Certifications Portfolio**
+
+<div align="center">
+
+[![IBM](https://img.shields.io/badge/IBM-20+-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.youracclaim.com/earner/earned)
+[![SAP](https://img.shields.io/badge/SAP-10+-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://open.sap.com/dashboard/documents)
+[![Google](https://img.shields.io/badge/Google-5+-4285F4?style=for-the-badge&logo=google&logoColor=white)](#google-certifications)
+[![Microsoft](https://img.shields.io/badge/Microsoft-4+-00A1F1?style=for-the-badge&logo=microsoft&logoColor=white)](#microsoft-certifications)
+[![AWS](https://img.shields.io/badge/AWS-3+-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#aws-certifications)
+[![CompTIA](https://img.shields.io/badge/CompTIA-2+-E4002B?style=for-the-badge&logo=comptia&logoColor=white)](#comptia-certifications)
+
+</div>
+
+---
+
+## 🌟 **Google Cloud & Analytics Certifications**
+
+<div align="center" id="google-certifications">
+
+### 📊 **Google Professional Certificates**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="google-advanced-data-analytics-certificate.png" width="100" height="100" alt="Google Advanced Data Analytics"/>
+<br><sub><b>Google Advanced<br>Data Analytics</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="google-advanced-analytics-2022.png" width="100" height="100" alt="Google Advanced Analytics"/>
+<br><sub><b>Google Advanced<br>Analytics 2022</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="google business intelligence.png" width="100" height="100" alt="Google Business Intelligence"/>
+<br><sub><b>Google Business<br>Intelligence</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="google-it-support-professional-certificate.png" width="100" height="100" alt="Google IT Support"/>
+<br><sub><b>Google IT Support<br>Professional</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="google-it-automation-with-python-professional.png" width="100" height="100" alt="Google Python Automation"/>
+<br><sub><b>Google IT Automation<br>with Python</b></sub>
+</td>
+<td align="center" colspan="2">
+<img src="cloud-digital-leader-certification.png" width="100" height="100" alt="Cloud Digital Leader"/>
+<br><sub><b>Google Cloud<br>Digital Leader</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔷 **Microsoft Azure Certifications**
+
+<div align="center" id="microsoft-certifications">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="microsoft-certified-azure-fundamentals.png" width="100" height="100" alt="Azure Fundamentals"/>
+<br><sub><b>Microsoft Azure<br>Fundamentals (AZ-900)</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="az-900-badge.jpeg" width="100" height="100" alt="AZ-900 Badge"/>
+<br><sub><b>Azure Fundamentals<br>Certification Badge</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="microsoft-machine-engineer-2020-badge.png" width="100" height="100" alt="Machine Learning Engineer"/>
+<br><sub><b>Microsoft Machine<br>Learning Engineer</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="Microsoft+ND+Recipient+Badge.jpg" width="100" height="100" alt="Microsoft Nanodegree"/>
+<br><sub><b>Microsoft Nanodegree<br>Recipient</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🟠 **AWS AI & Machine Learning Certifications**
+
+<div align="center" id="aws-certifications">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="aws-ai-and-ml-scholars-2025.jpeg" width="100" height="100" alt="AWS AI ML Scholars"/>
+<br><sub><b>AWS AI & ML<br>Scholars 2025</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="aws-educate-machine-learning-foundations.png" width="100" height="100" alt="AWS ML Foundations"/>
+<br><sub><b>AWS Educate ML<br>Foundations</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="cloud-essentials.png" width="100" height="100" alt="Cloud Essentials"/>
+<br><sub><b>AWS Cloud<br>Essentials</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔴 **CompTIA Professional Certifications**
+
+<div align="center" id="comptia-certifications">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="comptia-data-ce.png" width="100" height="100" alt="CompTIA Data+"/>
+<br><sub><b>CompTIA Data+<br>Continuing Education</b></sub>
+</td>
+<td align="center" width="50%">
+<img src="comptia-datax.png" width="100" height="100" alt="CompTIA DataX"/>
+<br><sub><b>CompTIA<br>DataX</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 **Scholarship & Fellowship Programs**
+
+<div align="center">
+
+### 🏆 **Academic Excellence Recognition**
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="BIT+Scholarship+badge.png" width="80" height="80" alt="BIT Scholarship"/>
+<br><sub><b>BIT<br>Scholarship</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="BIT_Scholarship+BadgeP2-2021.png" width="80" height="80" alt="BIT Scholarship P2"/>
+<br><sub><b>BIT Scholarship<br>Phase 2 (2021)</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="BIT_Scholarship_Finalist_Badge-2021.png" width="80" height="80" alt="BIT Finalist"/>
+<br><sub><b>BIT Scholarship<br>Finalist 2021</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="Bertelsmann_Challenge_Finalist_Badge.png" width="80" height="80" alt="Bertelsmann Challenge"/>
+<br><sub><b>Bertelsmann<br>Challenge Finalist</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="Bertelsmann_Year_3_Scholarship_Badge.png" width="80" height="80" alt="Bertelsmann Year 3"/>
+<br><sub><b>Bertelsmann<br>Year 3 Scholarship</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<img src="SUSE+Scholarship-2021-badge.png" width="80" height="80" alt="SUSE Scholarship"/>
+<br><sub><b>SUSE<br>Scholarship 2021</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="pytorch-acceptance-2019-badge.png" width="80" height="80" alt="PyTorch"/>
+<br><sub><b>PyTorch<br>Acceptance 2019</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="nextgen-challenge-2023-badge.jpeg" width="80" height="80" alt="NextGen Challenge"/>
+<br><sub><b>NextGen<br>Challenge 2023</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="frontend developer phase1-2023.jpeg" width="80" height="80" alt="Frontend Developer"/>
+<br><sub><b>Frontend Developer<br>Phase 1 (2023)</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="GCC_badge_python_1000x1000.png" width="80" height="80" alt="GCC Python"/>
+<br><sub><b>GCC Python<br>Badge</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧠 **Extended SAP & Advanced Analytics**
+
+<div align="center">
+
+### 🔬 **Advanced SAP Technologies**
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="sap-datascienc_open_badge.png" width="80" height="80" alt="SAP Data Science"/>
+<br><sub><b>SAP Data<br>Science</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="sap-design-thinking_open_badge.png" width="80" height="80" alt="SAP Design Thinking"/>
+<br><sub><b>SAP Design<br>Thinking</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="sap analytic cloud_2022_badge.png" width="80" height="80" alt="SAP Analytics Cloud"/>
+<br><sub><b>SAP Analytics<br>Cloud 2022</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="ai-ethics-sap-2024_badge.png" width="80" height="80" alt="AI Ethics SAP"/>
+<br><sub><b>AI Ethics<br>SAP 2024</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="devops1_sap-2021_badge.png" width="80" height="80" alt="SAP DevOps"/>
+<br><sub><b>SAP DevOps<br>2021</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<img src="be-visual-sketch-it-sap_2021-badge.png" width="80" height="80" alt="SAP Visual Design"/>
+<br><sub><b>SAP Visual<br>Sketch-it 2021</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="fundamentals of sap hana cloud database.png" width="80" height="80" alt="SAP HANA Cloud"/>
+<br><sub><b>SAP HANA Cloud<br>Database</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="genai1_open_badge.png" width="80" height="80" alt="GenAI"/>
+<br><sub><b>Generative AI<br>Fundamentals</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="python1_open2022_badge.png" width="80" height="80" alt="Python 2022"/>
+<br><sub><b>Python<br>Programming 2022</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="introduction-to-genai-for-higher-ed-faculty.png" width="80" height="80" alt="GenAI Higher Ed"/>
+<br><sub><b>GenAI for<br>Higher Education</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏗️ **Extended Big Data & Cloud Infrastructure**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="hadoop-administration-level-1.png" width="80" height="80" alt="Hadoop Admin"/>
+<br><sub><b>Hadoop<br>Administration L1</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="hadoop-data-access-level-1.png" width="80" height="80" alt="Hadoop Data Access"/>
+<br><sub><b>Hadoop<br>Data Access L1</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="hadoop-foundations-level-2.png" width="80" height="80" alt="Hadoop Foundations L2"/>
+<br><sub><b>Hadoop<br>Foundations L2</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="hadoop-programming-level-1.png" width="80" height="80" alt="Hadoop Programming"/>
+<br><sub><b>Hadoop<br>Programming L1</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="databrick_lakehouse.jpeg" width="80" height="80" alt="Databricks Lakehouse"/>
+<br><sub><b>Databricks<br>Lakehouse</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<img src="ibm-serverless-acclaim-badge.png" width="80" height="80" alt="IBM Serverless"/>
+<br><sub><b>IBM Serverless<br>Computing</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="serverless-computing-using-cloud-functions.png" width="80" height="80" alt="Serverless Cloud Functions"/>
+<br><sub><b>Serverless<br>Cloud Functions</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="enterprice-data-analytics.png" width="80" height="80" alt="Enterprise Data Analytics"/>
+<br><sub><b>Enterprise<br>Data Analytics</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="Data+ce Certified Logo 17NOV21.png.png" width="80" height="80" alt="Data Certified"/>
+<br><sub><b>Data Certified<br>Professional</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="pearson-ed-tech-symposium-2024.png" width="80" height="80" alt="EdTech Symposium"/>
+<br><sub><b>Pearson EdTech<br>Symposium 2024</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📋 **Project Management & Agile Certifications**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="fundamentals-of-agile-project-management.png" width="100" height="100" alt="Agile Project Management"/>
+<br><sub><b>Fundamentals of<br>Agile Project Management</b></sub>
+</td>
+<td align="center" width="50%">
+<img src="fundamentals-of-predictive-project-management.png" width="100" height="100" alt="Predictive Project Management"/>
+<br><sub><b>Fundamentals of<br>Predictive Project Management</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 ## 📖 Overview
@@ -30,26 +349,46 @@ mindmap
   root((Technical Skills))
     AI & ML
       Deep Learning
-      TensorFlow
+      TensorFlow & PyTorch
       Neural Networks
       Machine Learning Algorithms
+      Generative AI
+      AI Ethics
     Data Science
       Python Programming
       R Programming
-      Data Analysis
-      Statistical Modeling
+      Statistical Analysis
       Data Visualization
-    Big Data & Cloud
+      Business Intelligence
+      Predictive Analytics
+    Cloud Platforms
+      AWS AI/ML Services
+      Microsoft Azure
+      Google Cloud Platform
+      IBM Cloud
+      Multi-Cloud Architecture
+      Serverless Computing
+    Big Data & Analytics
       Hadoop Ecosystem
       Apache Spark
-      IBM Cloud
-      Docker Containerization
-      Serverless Computing
+      Databricks Lakehouse
+      Data Pipeline Architecture
+      Real-time Processing
+      Enterprise Analytics
     Enterprise Solutions
       SAP S/4HANA
       Business Process Automation
       IoT Integration
-      Enterprise AI
+      DevOps & CI/CD
+      Project Management
+      Design Thinking
+    Specialized Skills
+      CompTIA Data+
+      Container Orchestration
+      Edge Computing
+      Data Governance
+      Academic Research
+      Technical Leadership
 ```
 
 </div>
@@ -65,91 +404,139 @@ mindmap
 
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="Applied-Data-Science-with-Python-Level-2.png" width="80" height="80" alt="Applied Data Science"/>
-<br><sub><b>Applied Data Science<br>with Python</b></sub>
+<td align="center" width="12.5%">
+<img src="Applied-Data-Science-with-Python-Level2.png" width="80" height="80" alt="Applied Data Science" title="Applied Data Science with Python - Advanced analytics and machine learning implementation"/>
+<br><sub><b>Applied Data Science<br>with Python L2</b></sub>
 </td>
-<td align="center" width="20%">
-<img src="Big-Data-Foundations-Level1.png" width="80" height="80" alt="Big Data Foundations"/>
-<br><sub><b>Big Data<br>Foundations</b></sub>
+<td align="center" width="12.5%">
+<img src="Applied-Data-Science-with-R-Level2.png" width="80" height="80" alt="Applied Data Science R" title="Applied Data Science with R - Statistical modeling and advanced analytics"/>
+<br><sub><b>Applied Data Science<br>with R L2</b></sub>
 </td>
-<td align="center" width="20%">
-<img src="Data-Science-Foundations-Level1.png" width="80" height="80" alt="Data Science Foundations"/>
-<br><sub><b>Data Science<br>Foundations</b></sub>
+<td align="center" width="12.5%">
+<img src="Big-Data-Foundations-Level1.png" width="80" height="80" alt="Big Data Foundations L1" title="Big Data Foundations Level 1 - Hadoop ecosystem and distributed computing"/>
+<br><sub><b>Big Data<br>Foundations L1</b></sub>
 </td>
-<td align="center" width="20%">
-<img src="Machine-Learning-with-Python-Level1.png" width="80" height="80" alt="Machine Learning"/>
-<br><sub><b>Machine Learning<br>with Python</b></sub>
+<td align="center" width="12.5%">
+<img src="Big-Data-Foundations-Level2.png" width="80" height="80" alt="Big Data Foundations L2" title="Big Data Foundations Level 2 - Advanced big data architectures and processing"/>
+<br><sub><b>Big Data<br>Foundations L2</b></sub>
 </td>
-<td align="center" width="20%">
-<img src="Deep-Learning-Essentials.png" width="80" height="80" alt="Deep Learning"/>
+<td align="center" width="12.5%">
+<img src="Data-Science-Foundations-Level1.png" width="80" height="80" alt="Data Science Foundations L1" title="Data Science Foundations - Core concepts, methodologies, and statistical analysis"/>
+<br><sub><b>Data Science<br>Foundations L1</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Data-Science-Foundations-Level2(V2).png" width="80" height="80" alt="Data Science Foundations L2" title="Data Science Foundations Level 2 - Advanced data science techniques and applications"/>
+<br><sub><b>Data Science<br>Foundations L2</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Machine-Learning-with-Python-Level1.png" width="80" height="80" alt="Machine Learning Python" title="Machine Learning with Python - Supervised and unsupervised learning algorithms"/>
+<br><sub><b>Machine Learning<br>with Python L1</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Deep-Learning-Essentials.png" width="80" height="80" alt="Deep Learning Essentials" title="Deep Learning Essentials - Neural networks, backpropagation, and deep architectures"/>
 <br><sub><b>Deep Learning<br>Essentials</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="20%">
-<img src="Data-Analysis-Using-Python-Level1.png" width="80" height="80" alt="Data Analysis"/>
-<br><sub><b>Data Analysis<br>Using Python</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="Data-Visualization-Using-Python-Level1.png" width="80" height="80" alt="Data Visualization"/>
-<br><sub><b>Data Visualization<br>Using Python</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="Machine-Learning-with-R-Level1.png" width="80" height="80" alt="ML with R"/>
-<br><sub><b>Machine Learning<br>with R</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="Deep-Learning-using-TensorFlow.png" width="80" height="80" alt="TensorFlow"/>
+<td align="center" width="12.5%">
+<img src="Deep-Learning-using-TensorFlow.png" width="80" height="80" alt="TensorFlow Deep Learning" title="Deep Learning using TensorFlow - Advanced neural networks and model optimization"/>
 <br><sub><b>Deep Learning<br>using TensorFlow</b></sub>
 </td>
-<td align="center" width="20%">
-<img src="Python-for-Data-Science.png" width="80" height="80" alt="Python Data Science"/>
+<td align="center" width="12.5%">
+<img src="Deep-Learning.png" width="80" height="80" alt="Deep Learning Advanced" title="Advanced Deep Learning - Complex architectures and cutting-edge techniques"/>
+<br><sub><b>Deep Learning<br>Advanced</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Data-Analysis-Using-Python.png" width="80" height="80" alt="Data Analysis Python" title="Data Analysis Using Python - Pandas, NumPy, and data manipulation techniques"/>
+<br><sub><b>Data Analysis<br>Using Python</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Data-Visualization-Using-Python.png" width="80" height="80" alt="Data Visualization" title="Data Visualization Using Python - Matplotlib, Seaborn, and interactive plotting"/>
+<br><sub><b>Data Visualization<br>Using Python</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Machine-Learning-with-R-Level1.png" width="80" height="80" alt="ML with R" title="Machine Learning with R - Statistical learning and R-based ML algorithms"/>
+<br><sub><b>Machine Learning<br>with R L1</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Python-for-Data-Science.png" width="80" height="80" alt="Python Data Science" title="Python for Data Science - Core Python programming for data analysis"/>
 <br><sub><b>Python for<br>Data Science</b></sub>
 </td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img src="R-Essentials.png" width="80" height="80" alt="R Essentials"/>
+<td align="center" width="12.5%">
+<img src="R-Essentials.png" width="80" height="80" alt="R Essentials" title="R Programming Essentials - Statistical computing and graphics with R"/>
 <br><sub><b>R Programming<br>Essentials</b></sub>
 </td>
-<td align="center" width="20%">
-<img src="Statistics-101.png" width="80" height="80" alt="Statistics"/>
+<td align="center" width="12.5%">
+<img src="Statistics-101.png" width="80" height="80" alt="Statistics" title="Statistics Fundamentals - Descriptive and inferential statistics"/>
 <br><sub><b>Statistics<br>Fundamentals</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="Hadoop-Foundations-Level1.png" width="80" height="80" alt="Hadoop"/>
-<br><sub><b>Hadoop<br>Foundations</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="Spark-Level1.png" width="80" height="80" alt="Spark Level 1"/>
-<br><sub><b>Apache Spark<br>Level 1</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="Spark-Level2.png" width="80" height="80" alt="Spark Level 2"/>
-<br><sub><b>Apache Spark<br>Level 2</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="20%">
-<img src="IBM-Cloud-Essentials-V2.png" width="80" height="80" alt="IBM Cloud"/>
-<br><sub><b>IBM Cloud<br>Essentials</b></sub>
+<td align="center" width="12.5%">
+<img src="Data-Science-for-Business-Level1.png" width="80" height="80" alt="Data Science Business L1" title="Data Science for Business - Business analytics and decision-making with data"/>
+<br><sub><b>Data Science<br>for Business L1</b></sub>
 </td>
-<td align="center" width="20%">
-<img src="Cloud-Core.png" width="80" height="80" alt="Cloud Core"/>
+<td align="center" width="12.5%">
+<img src="Data-Science-for-Business-Level2.png" width="80" height="80" alt="Data Science Business L2" title="Data Science for Business Level 2 - Advanced business intelligence and strategy"/>
+<br><sub><b>Data Science<br>for Business L2</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Hadoop-Foundations-Level1.png" width="80" height="80" alt="Hadoop Foundations" title="Hadoop Foundations - HDFS, MapReduce, and distributed storage systems"/>
+<br><sub><b>Hadoop<br>Foundations L1</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="hadoop-foundations-level-2.png" width="80" height="80" alt="Hadoop Foundations L2" title="Hadoop Foundations Level 2 - Advanced Hadoop ecosystem and cluster management"/>
+<br><sub><b>Hadoop<br>Foundations L2</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Spark-Level1.png" width="80" height="80" alt="Spark Level 1" title="Apache Spark Level 1 - In-memory data processing and RDD operations"/>
+<br><sub><b>Apache Spark<br>Level 1</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Spark-Level2.png" width="80" height="80" alt="Spark Level 2" title="Apache Spark Level 2 - Advanced Spark SQL, MLlib, and streaming"/>
+<br><sub><b>Apache Spark<br>Level 2</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="hadoop-administration-level-1.png" width="80" height="80" alt="Hadoop Admin" title="Hadoop Administration - Cluster setup, monitoring, and maintenance"/>
+<br><sub><b>Hadoop<br>Administration L1</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="hadoop-programming-level-1.png" width="80" height="80" alt="Hadoop Programming" title="Hadoop Programming - MapReduce development and optimization"/>
+<br><sub><b>Hadoop<br>Programming L1</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="12.5%">
+<img src="IBM-Cloud-Essentials-V2.png" width="80" height="80" alt="IBM Cloud" title="IBM Cloud Essentials - Cloud services, deployment, and management"/>
+<br><sub><b>IBM Cloud<br>Essentials V2</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="Cloud-Core.png" width="80" height="80" alt="Cloud Core" title="Cloud Computing Core - Fundamental cloud concepts and architectures"/>
 <br><sub><b>Cloud Computing<br>Core</b></sub>
 </td>
-<td align="center" width="20%">
-<img src="Docker-Essentials-A-Developer-Introduction.png" width="80" height="80" alt="Docker"/>
+<td align="center" width="12.5%">
+<img src="Docker-Essentials-A-Developer-Introduction.png" width="80" height="80" alt="Docker" title="Docker Essentials - Containerization, deployment, and orchestration"/>
 <br><sub><b>Docker<br>Essentials</b></sub>
 </td>
-<td align="center" width="20%">
-<img src="Serverless-Computing-using-Apache-OpenWhisk.png" width="80" height="80" alt="Serverless"/>
+<td align="center" width="12.5%">
+<img src="Serverless-Computing-using-Cloud-Functions.png" width="80" height="80" alt="Serverless" title="Serverless Computing - Function-as-a-Service and event-driven architectures"/>
 <br><sub><b>Serverless<br>Computing</b></sub>
 </td>
-<td align="center" width="20%">
-<img src="Data_Science_Methodologies.png" width="80" height="80" alt="Data Science Methods"/>
+<td align="center" width="12.5%">
+<img src="Data_Science_Methodologies.png" width="80" height="80" alt="Data Science Methods" title="Data Science Methodologies - CRISP-DM, project lifecycle, and best practices"/>
 <br><sub><b>Data Science<br>Methodologies</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="hadoop-data-access-level-1.png" width="80" height="80" alt="Hadoop Data Access" title="Hadoop Data Access - Hive, Pig, and data querying techniques"/>
+<br><sub><b>Hadoop<br>Data Access L1</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="ibm-serverless-acclaim-badge.png" width="80" height="80" alt="IBM Serverless Badge" title="IBM Serverless Computing - Advanced serverless architectures and deployment"/>
+<br><sub><b>IBM Serverless<br>Computing</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="enterprice-data-analytics.png" width="80" height="80" alt="Enterprise Analytics" title="Enterprise Data Analytics - Large-scale analytics and business intelligence"/>
+<br><sub><b>Enterprise<br>Data Analytics</b></sub>
 </td>
 </tr>
 </table>
@@ -159,9 +546,10 @@ mindmap
 ### 📊 **Certification Statistics**
 
 ```
-🎓 Total IBM Badges: 19+
-📈 Skill Areas: 8 Major Domains
-⏱️ Learning Hours: 200+ Hours
+🎓 Total Badges: 50+
+📈 Major Platforms: IBM, SAP, Google, Microsoft, AWS, CompTIA
+💼 Skill Areas: 12 Major Domains
+⏱️ Learning Hours: 500+ Hours
 🔄 Completion Rate: 100%
 ```
 
@@ -209,20 +597,22 @@ mindmap
 
 ---
 
-## 🛠️ **Technology Stack & Skills Matrix**
+## 🛠️ **Comprehensive Technology Stack & Skills Matrix**
 
 <div align="center">
 
-| **Category** | **Technologies** | **Proficiency** |
-|:---|:---|:---:|
-| **Programming Languages** | Python, R, SQL | ![90%](https://progress-bar.dev/90) |
-| **Machine Learning** | Scikit-learn, TensorFlow, Keras | ![85%](https://progress-bar.dev/85) |
-| **Data Processing** | Pandas, NumPy, Apache Spark | ![88%](https://progress-bar.dev/88) |
-| **Visualization** | Matplotlib, Seaborn, Plotly | ![82%](https://progress-bar.dev/82) |
-| **Big Data** | Hadoop, Spark, Hive | ![80%](https://progress-bar.dev/80) |
-| **Cloud Platforms** | IBM Cloud, SAP Cloud Platform | ![85%](https://progress-bar.dev/85) |
-| **Enterprise Solutions** | SAP S/4HANA, SAP RPA, IoT | ![78%](https://progress-bar.dev/78) |
-| **DevOps** | Docker, Serverless Computing | ![75%](https://progress-bar.dev/75) |
+| **Category** | **Technologies** | **Proficiency** | **Certifications** |
+|:---|:---|:---:|:---:|
+| **Programming Languages** | Python, R, SQL, JavaScript | ![95%](https://progress-bar.dev/95) | 8+ |
+| **Machine Learning & AI** | Scikit-learn, TensorFlow, PyTorch, Keras | ![90%](https://progress-bar.dev/90) | 12+ |
+| **Cloud Platforms** | AWS, Microsoft Azure, Google Cloud, IBM Cloud | ![88%](https://progress-bar.dev/88) | 15+ |
+| **Data Processing** | Pandas, NumPy, Apache Spark, Hadoop | ![92%](https://progress-bar.dev/92) | 10+ |
+| **Visualization & BI** | Matplotlib, Seaborn, Plotly, Power BI, SAP Analytics | ![85%](https://progress-bar.dev/85) | 6+ |
+| **Big Data Technologies** | Hadoop, Spark, Hive, Databricks | ![87%](https://progress-bar.dev/87) | 8+ |
+| **Enterprise Solutions** | SAP S/4HANA, SAP RPA, IoT, Business Intelligence | ![82%](https://progress-bar.dev/82) | 10+ |
+| **DevOps & Infrastructure** | Docker, Kubernetes, Serverless, CI/CD | ![80%](https://progress-bar.dev/80) | 5+ |
+| **Data Compliance & Ethics** | Data Governance, AI Ethics, Privacy Protection | ![85%](https://progress-bar.dev/85) | 3+ |
+| **Project Management** | Agile, Scrum, Predictive Management | ![78%](https://progress-bar.dev/78) | 2+ |
 
 </div>
 
@@ -234,36 +624,55 @@ mindmap
 <summary>🔍 <b>Click to Explore Badge Categories</b></summary>
 
 ### 🤖 **Artificial Intelligence & Machine Learning**
-* Deep Learning Essentials
-* Deep Learning using TensorFlow
-* Machine Learning with Python (Level 1)
-* Machine Learning with R (Level 1)
+* Deep Learning Essentials & Advanced TensorFlow
+* Machine Learning with Python & R (Multiple Levels)
 * SAP Data Intelligence for Enterprise AI
+* AWS AI & ML Scholars Program
+* Microsoft Machine Learning Engineer
+* PyTorch Scholarship Recipient
+* Generative AI Fundamentals
+* AI Ethics and Responsible AI
 
 ### 📊 **Data Science & Analytics**
 * Applied Data Science with Python (Level 2)
-* Data Science Foundations (Level 1)
-* Data Analysis Using Python (Level 1)
-* Data Visualization Using Python (Level 1)
-* Python for Data Science
-* R Essentials
-* Statistics 101
-* Analytics with SAP Cloud Platform
+* Google Advanced Data Analytics Professional
+* Google Business Intelligence Certificate
+* Data Science Foundations (Multiple Levels)
+* CompTIA Data+ Certification
+* SAP Analytics Cloud
+* Enterprise Data Analytics
+* Statistical Analysis & Methodologies
+
+### ☁️ **Cloud & Infrastructure**
+* AWS Educate ML Foundations
+* Microsoft Azure Fundamentals (AZ-900)
+* Google Cloud Digital Leader
+* IBM Cloud Essentials & Core
+* Docker & Kubernetes Essentials
+* Serverless Computing (Multiple Platforms)
+* Cloud Functions & Infrastructure
 
 ### 🏗️ **Big Data & Infrastructure**
-* Big Data Foundations (Level 1)
-* Hadoop Foundations (Level 1)
+* Hadoop Administration, Programming & Data Access
 * Apache Spark (Level 1 & 2)
-* IBM Cloud Essentials V2
-* Cloud Core
-* Docker Essentials
-* Serverless Computing using Apache OpenWhisk
+* Databricks Lakehouse Platform
+* Big Data Foundations (Multiple Levels)
+* Data Pipeline Architecture
+* Distributed Computing Systems
 
 ### 🏢 **Enterprise & Business Solutions**
 * SAP S/4HANA Cloud Implementation
 * Business Process Automation with SAP RPA
 * Internet of Things with SAP
-* Data Science Methodologies
+* SAP Design Thinking & DevOps
+* Google IT Support & Automation
+* Project Management (Agile & Predictive)
+
+### 🎓 **Academic Excellence & Scholarships**
+* Multiple Scholarship Recipients (BIT, Bertelsmann, SUSE)
+* Frontend Development Programs
+* EdTech Symposium Participation
+* Challenge Finalist Recognition
 
 </details>
 
@@ -275,25 +684,41 @@ mindmap
 timeline
     title Professional Development Timeline
     
-    2019 : Foundation Building
-         : Statistics & R Programming
-         : Python for Data Science
-         : Data Science Methodologies
+    2019 : Foundation & Enterprise
+         : SAP S/4HANA Certifications
+         : Python & R Programming
+         : PyTorch Scholarship Program
     
-    2020 : Advanced Analytics
-         : Machine Learning Specialization
-         : Data Visualization Mastery
+    2020 : Data Science Mastery
+         : IBM Data Science Track
+         : Machine Learning Specializations
          : Big Data Technologies
     
-    2021 : AI & Deep Learning
-         : TensorFlow Certification
-         : Deep Learning Specialization
-         : Advanced Applied Data Science
+    2021 : Cloud & Advanced Analytics
+         : Multi-Platform Scholarships
+         : SAP Advanced Technologies
+         : DevOps & Design Thinking
     
-    2022 : Cloud & Enterprise
-         : IBM Cloud Platform
-         : SAP Enterprise Solutions
-         : Business Process Automation
+    2022 : Professional Certifications
+         : Google Analytics Professional
+         : Microsoft Azure Fundamentals
+         : SAP Analytics Cloud
+         : Advanced Python Programming
+    
+    2023 : Enterprise & Leadership
+         : Frontend Development
+         : NextGen Challenge Finalist
+         : Advanced Data Analytics
+    
+    2024 : AI Ethics & Innovation
+         : Generative AI Specialization
+         : AI Ethics Certification
+         : EdTech Symposium Participation
+    
+    2025 : Cloud Architecture Focus
+         : AWS AI & ML Scholars
+         : Multi-Cloud Certifications
+         : Advanced Enterprise Solutions
 ```
 
 ---
@@ -320,16 +745,19 @@ timeline
 
 ```
 🎯 Currently Pursuing:
-   ├── Advanced AI Specializations
-   ├── Cloud Architecture Certifications
-   ├── MLOps and Model Deployment
-   └── Enterprise AI Strategy
+   ├── Advanced Cloud Architecture (Multi-Cloud)
+   ├── Kubernetes & Container Orchestration
+   ├── MLOps and Model Deployment at Scale
+   ├── Generative AI & Large Language Models
+   └── Data Mesh & Modern Data Architecture
 
-📅 2025 Goals:
-   ├── AWS/Azure AI Certifications
-   ├── Kubernetes & Container Orchestration  
-   ├── Real-time Analytics & Streaming
-   └── Edge AI & IoT Integration
+📅 2025-2026 Goals:
+   ├── AWS Solutions Architect Professional
+   ├── Azure Data Engineer Associate  
+   ├── Google Cloud Professional ML Engineer
+   ├── Certified Kubernetes Administrator (CKA)
+   ├── Advanced GenAI Applications
+   └── Enterprise AI Strategy & Governance
 ```
 
 </div>
